@@ -1,0 +1,17 @@
+{
+  "name": "mcp-web-research",
+  "version": "1.0.0",
+  "description": "MCP server template for agentic web research: live search, page fetch and summarization helpers.",
+  "main": "worker.js",
+  "type": "module",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "template",
+    "server",
+    "ai",
+    "agent"
+  ],
+  "license": "SEE LICENSE IN README.md",
+  "author": "PixHarvest (ContentForge)"
+}
